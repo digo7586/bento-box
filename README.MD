@@ -2,9 +2,9 @@
 # Imagem do Projeto
 ![imagem do projeto](./img/rm-dev-link-bio-2.0.png "Link Bio RM Dev 2.0")
 
-# Meus Links - Ricardo Moura│Dev
+# Meus Links - Domingos |Tech&Code
 
-Este é um site pessoal desenvolvido por Ricardo Moura para centralizar links importantes e destacar habilidades e projetos. A página inclui widgets com informações pessoais, habilidades técnicas, links para redes sociais, e muito mais.
+fiz uma copia deste site pessoal desenvolvido por Ricardo Moura para centralizar links importantes e destacar habilidades e projetos. A página inclui widgets com informações pessoais, habilidades técnicas, links para redes sociais, e muito mais.
 
 ## Características
 
@@ -35,7 +35,7 @@ Este é um site pessoal desenvolvido por Ricardo Moura para centralizar links im
     |-- smile-icon.png
     |-- web-black-icon.png
     |-- web-white-icon.png
-    |-- tread-skateboard.jpg
+    |-- pizza1.png
 ```
 
 ## Como Usar
