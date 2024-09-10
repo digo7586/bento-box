@@ -4,7 +4,7 @@
 
 # Meus Links - Domingos |Tech&Code
 
-fiz uma copia deste site pessoal desenvolvido por Ricardo Moura para centralizar links importantes e destacar habilidades e projetos. A página inclui widgets com informações pessoais, habilidades técnicas, links para redes sociais, e muito mais.
+Fiz uma copia deste site pessoal desenvolvido por Ricardo Moura para centralizar links importantes e destacar habilidades e projetos. A página inclui widgets com informações pessoais, habilidades técnicas, links para redes sociais, e muito mais.
 
 ## Características
 
